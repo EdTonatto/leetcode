@@ -3,7 +3,7 @@ My solutions for LeetCode problems
 
 <details>
   <summary>
-    🟢 <b>Easy</b> (4)
+    🟢 <b>Easy</b> (5)
   </summary>
   
   * [1. Two Sum](https://github.com/EdTonatto/leetcode/blob/main/1-two-sum.js)
